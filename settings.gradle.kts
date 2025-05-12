@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ByteBalanceApp"
+rootProject.name = "BudgetEase"
 include(":app")
  

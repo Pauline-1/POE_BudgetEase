@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bytebalanceapp"
+    namespace = "com.example.budgetease"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.bytebalanceapp"
+        applicationId = "com.example.budgetease"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

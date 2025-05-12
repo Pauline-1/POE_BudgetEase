@@ -1,4 +1,4 @@
-package com.example.bytebalanceapp
+package com.example.budgetease
 
 data class BudgetGoal(
     val month: String,

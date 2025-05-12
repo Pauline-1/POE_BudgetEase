@@ -1,4 +1,4 @@
-package com.example.bytebalanceapp
+package com.example.budgetease
 
 import android.content.Intent
 import android.os.Bundle

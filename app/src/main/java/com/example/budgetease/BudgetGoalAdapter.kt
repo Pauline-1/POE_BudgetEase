@@ -1,4 +1,4 @@
-package com.example.bytebalanceapp
+package com.example.budgetease
 
 import android.view.LayoutInflater
 import android.view.View

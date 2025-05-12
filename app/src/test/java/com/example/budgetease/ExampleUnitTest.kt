@@ -1,4 +1,4 @@
-package com.example.bytebalanceapp
+package com.example.budgetease
 
 import org.junit.Test
 

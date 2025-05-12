@@ -1,4 +1,4 @@
-package com.example.bytebalanceapp
+package com.example.budgetease
 
 data class Expense( val id: Int,
                     val date: String,

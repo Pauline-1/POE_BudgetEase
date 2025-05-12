@@ -1,4 +1,4 @@
-package com.example.bytebalanceapp
+package com.example.budgetease
 
 import android.app.DatePickerDialog
 import android.os.Bundle
