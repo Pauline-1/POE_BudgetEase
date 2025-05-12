@@ -38,3 +38,30 @@ Managing money can be overwhelming for students. ByteBalance makes it easy to:
 
 ## 📂 Project Structure
 
+ByteBalance/
+├── app/
+│ ├── java/com/example/bytebalance/
+│ │ ├── activities/
+│ │ │ ├── LoginActivity.kt
+│ │ │ ├── RegisterActivity.kt
+│ │ │ ├── DashboardActivity.kt
+│ │ │ ├── AddExpenseActivity.kt
+│ │ │ ├── ViewExpensesActivity.kt
+│ │ │ └── ViewSummaryActivity.kt
+│ │ ├── database/
+│ │ │ └── DBHelper.kt
+│ │ ├── model/
+│ │ │ └── Expense.kt
+│ │ └── adapter/
+│ │ └── ExpenseAdapter.kt
+│ ├── res/
+│ │ ├── layout/
+│ │ │ ├── activity_login.xml
+│ │ │ ├── activity_register.xml
+│ │ │ ├── activity_dashboard.xml
+│ │ │ ├── activity_add_expense.xml
+│ │ │ ├── activity_view_expenses.xml
+│ │ │ └── activity_view_summary.xml
+│ │ └── drawable/
+│ │ └── button_green.xml
+
